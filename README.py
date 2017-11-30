@@ -1,5 +1,6 @@
 # Ejercicio3.1
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 def areaCuadrado():
@@ -7,6 +8,13 @@ def areaCuadrado():
     areas =  lado**2
     print ("El area es: " , areas)
 
+=======
+def areatriangulo():
+    altura=int(input("Ingrese la altura: "))
+    base=int(input("Ingrese la base: "))
+    area=(base+altura)/2
+    print("La area del triangulo es: ",area)
+>>>>>>> d69c985979b993a19cf0b1c23ec15fe471e4e4e9
 =======
 def calculaCirculo():
     radio=float(input("Ingrese el radio del circulo: "))
